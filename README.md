@@ -126,7 +126,7 @@ The goal was not just to *learn Java syntax*, but to **think like a software eng
 ## 🧰 Tech Stack & Tools
 | Category | Tools & Technologies |
 |-----------|----------------------|
-| **Language** | Java 17+ |
+| **Language** | Java |
 | **Database** | MySQL |
 | **Version Control** | Git, GitHub |
 | **IDEs** | IntelliJ IDEA, Eclipse |
