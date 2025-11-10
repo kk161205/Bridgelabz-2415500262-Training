@@ -1,5 +1,4 @@
 # 🚀 Bridgelabz Java Training Log  
-**Trainee ID:** 2415500262  
 **Name:** Kushagra Kulshrestha  
 **Program:** Bridgelabz Java Development Training  
 
