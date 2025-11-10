@@ -1,120 +1,129 @@
-# 🧠 Bridgelabz Java Training Log  
+# 🚀 Bridgelabz Java Training Log  
 **Trainee ID:** 2415500262  
-**Program:** Bridgelabz Training Program  
+**Name:** Kushagra Kulshrestha  
+**Program:** Bridgelabz Java Development Training  
 
 ---
 
-## 📘 Overview
-This document records the weekly learning progress during the **Java Training Program** at **Bridgelabz**.  
-It highlights the key topics, hands-on exercises, and conceptual understanding gained throughout the training period.
+## 🧩 About This Repository
+This repo documents my **Java learning journey** at **Bridgelabz**, where I built a strong foundation in **Core Java**, **OOP concepts**, **Collections**, and **Database Connectivity**.  
+It includes my **weekly progress**, **hands-on exercises**, and **project-based learning outcomes**.
 
 ---
 
-## 🗓️ Learning Timeline
+## 📅 Weekly Learning Highlights
 
-### **August 11–13, 2025 — Git & Version Control**
-- Set up **Git Bash** and explored version control fundamentals  
-- Understood the difference between **Git**, **Git Bash**, and **GitHub**  
-- Practiced basic commands: `init`, `add`, `commit`, `push`, `clone`  
-- Learned **best practices** for repository management  
-- Solved basic **Java logic problems** for foundational strengthening  
+### 🗓 **August 11–13, 2025 | Getting Started with Git & Java**
+> The first step into structured coding.
+- Installed & configured **Git Bash**  
+- Understood **Git vs GitHub vs Git Bash**  
+- Practiced essential commands: `init`, `add`, `commit`, `push`, `clone`  
+- Learned version control **best practices**  
+- Solved basic **Java problems** for logic building  
 
 ---
 
-### **August 18–20, 2025 — Java Fundamentals**
-- Studied **Java syntax**, **keywords**, **data types**, and **variables**  
-- Understood Java program structure — `main()` method and program flow  
+### 🗓 **August 18–20, 2025 | Java Fundamentals**
+> Laying the foundation of programming in Java.
+- Studied **syntax**, **keywords**, **data types**, and **variables**  
+- Understood Java program structure & flow  
 - Practiced **input/output** programs  
-- Gained familiarity with the **Java development environment**  
+- Gained comfort with the **Java environment**  
 
 ---
 
-### **August 25–27, 2025 — Control Flow & Arrays**
-- Learned **control flow statements**: `if`, `else`, `switch`, `while`, `for`, `do-while`  
-- Understood **decision-making** and **iteration** in Java  
-- Studied **1D and 2D arrays** — declaration, initialization, traversal  
-- Implemented **matrix operations** using **nested loops**  
+### 🗓 **August 25–27, 2025 | Control Flow & Arrays**
+> Making programs think and repeat.
+- Implemented **conditional** and **looping** statements  
+- Explored **1D & 2D Arrays** — declaration, initialization, and traversal  
+- Practiced **nested loops** and **matrix operations**  
+- Understood **iteration and decision-making**  
 
 ---
 
-### **September 1–3, 2025 — Methods & Strings**
+### 🗓 **September 1–3, 2025 | Methods & Strings**
+> Writing modular and efficient Java code.
 - Studied **methods** — declaration, parameters, and return types  
-- Practiced **user-defined methods** for modular programming  
-- Explored **Strings**, **StringBuffer**, and **StringBuilder**  
-- Compared **immutability**, **performance**, and **use cases** of each  
+- Practiced **user-defined methods** for modularity  
+- Explored **String**, **StringBuffer**, and **StringBuilder**  
+- Compared their **performance** and **mutability** differences  
 
 ---
 
-### **September 8–10, 2025 — OOP Basics**
-- Introduced to **Object-Oriented Programming (OOPs)** concepts  
-  - Encapsulation, Inheritance, Polymorphism, Abstraction  
-- Learned about **constructors** — default, parameterized, and copy  
-- Studied **access modifiers** and variable scopes  
-- Practiced **inheritance** with hierarchical relationships  
+### 🗓 **September 8–10, 2025 | Object-Oriented Basics**
+> Thinking in objects and relationships.
+- Introduced to **OOP concepts** — Encapsulation, Inheritance, Polymorphism, Abstraction  
+- Studied **constructors** (default, parameterized, copy)  
+- Understood **access modifiers** and variable scopes  
+- Created **hierarchical inheritance** examples  
 
 ---
 
-### **September 15–17, 2025 — Advanced OOP Concepts**
-- Deep-dived into **Encapsulation**, **Interfaces**, and **Abstraction**  
-- Explored **Polymorphism**:  
-  - **Compile-time (Overloading)**  
-  - **Runtime (Overriding)**  
-- Practiced **Upcasting** and **Downcasting**  
-- Implemented **Abstract Classes** and **Interfaces** in combination  
+### 🗓 **September 15–17, 2025 | Advanced OOP Concepts**
+> Going deeper into object-oriented design.
+- Practiced **Encapsulation**, **Interfaces**, and **Abstraction**  
+- Learned **Polymorphism** — Overloading & Overriding  
+- Understood **Upcasting** and **Downcasting**  
+- Combined **Abstract Classes** and **Interfaces** in examples  
 
 ---
 
-### **September 22–24, 2025 — OOP Implementation**
-- Solved **real-world Java problems** using OOP concepts  
-- Applied **Inheritance**, **Polymorphism**, and **Abstraction** in projects  
-- Focused on writing **modular, reusable, and maintainable** Java code  
+### 🗓 **September 22–24, 2025 | OOP in Action**
+> Applying OOP to real-world problems.
+- Built **scenario-based programs** using OOP  
+- Practiced writing **reusable, maintainable, and structured** code  
+- Simulated **real-world use cases** with object relationships  
 
 ---
 
-### **October 13–15, 2025 — Interfaces & Lambdas**
-- Completed the topic of **Interfaces**  
-- Studied **Functional Interfaces**, **Default/Static Methods**, and **Marker Interfaces**  
-- Learned **Lambda Expressions** for functional-style programming  
-- Implemented **Interfaces with Lambdas** for concise, optimized code  
+### 🗓 **October 13–15, 2025 | Interfaces & Lambdas**
+> Introducing functional style coding in Java.
+- Learned to **define and implement Interfaces**  
+- Studied **Functional Interfaces**, **Default/Static Methods**, **Marker Interfaces**  
+- Implemented **Lambda Expressions** for cleaner, functional code  
+- Explored **real-world use cases** with lambdas  
 
 ---
 
-### **October 27–29, 2025 — Packages & Exception Handling**
-- Learned how to create and organize **Packages** in Java  
-- Studied **Exception Handling**: `try`, `catch`, `finally`, `throw`, `throws`  
-- Differentiated between **checked** and **unchecked** exceptions  
+### 🗓 **October 27–29, 2025 | Packages, Exceptions & Wrappers**
+> Organizing and safeguarding Java applications.
+- Learned **Packages** — creation and organization  
+- Mastered **Exception Handling** with `try`, `catch`, `finally`, `throw`, `throws`  
+- Differentiated **checked** and **unchecked** exceptions  
 - Created **custom exceptions**  
-- Explored **Wrapper Classes**, **autoboxing**, and **unboxing**  
+- Studied **Wrapper Classes**, **autoboxing**, and **unboxing**  
 
 ---
 
-### **November 3–5, 2025 — Generics, Collections & JDBC**
-- Studied **Generics** for type-safe and reusable code  
-- Learned **Collections Framework**:  
-  - **List**, **Set**, **Queue**, and **Map**  
-- Practiced **ArrayList**, **HashSet**, **HashMap** implementations  
+### 🗓 **November 3–5, 2025 | Generics, Collections & JDBC**
+> Connecting logic, data, and databases.
+- Studied **Generics** for type-safe, reusable code  
+- Learned **Collections Framework** — `List`, `Set`, `Queue`, `Map`  
+- Implemented **ArrayList**, **HashSet**, **HashMap**  
 - Integrated **Generics** with Collections  
-- Introduced to **JDBC (Java Database Connectivity)**  
-  - Understood **DriverManager**, **Connection**, **Statement**, and **ResultSet**  
-  - Performed **CRUD Operations** with MySQL  
+- Learned **JDBC (Java Database Connectivity)**  
+  - Understood **DriverManager**, **Connection**, **Statement**, **ResultSet**  
+  - Performed **CRUD operations** with MySQL  
 
 ---
 
-## 🏁 Summary
-By the end of this training, I have:
-- Built a **strong foundation** in Core Java  
-- Gained practical experience in **OOP principles and data structures**  
-- Learned **database connectivity** with **JDBC**  
-- Developed skills to write **efficient, modular, and maintainable** Java code  
-- Understood **real-world problem-solving** using Java  
+## 🏁 Final Takeaways
+By the end of this training:
+- 🧠 Built a **solid foundation** in Core Java  
+- ⚙️ Understood **OOP design principles** deeply  
+- 💾 Learned **database integration** using JDBC  
+- 🧩 Wrote **modular, optimized, and clean** Java code  
+- 🧰 Gained confidence in **real-world problem-solving**  
 
 ---
 
-## 🧩 Tools & Technologies
-- **Java 17+**  
-- **MySQL**  
-- **Git & GitHub**  
-- **Eclipse / IntelliJ IDEA**  
-- **JDK & JRE**  
+## 🧠 Tech Stack & Tools
+| Category | Tools |
+|-----------|--------|
+| **Language** | Java 17+ |
+| **Database** | MySQL |
+| **Version Control** | Git, GitHub |
+| **IDE** | IntelliJ IDEA / Eclipse |
+| **Environment** | JDK & JRE |
 
 ---
