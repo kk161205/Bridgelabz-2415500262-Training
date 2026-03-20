@@ -1,4 +1,4 @@
-package Stack;
+package Stack.HashMap;
 
 public class CustomHashMap {
  
